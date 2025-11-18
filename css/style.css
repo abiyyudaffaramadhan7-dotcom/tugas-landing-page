@@ -44,7 +44,7 @@ body{
 }
 
 .page1{
-    background-image: url(img/pizza.jpg);
+    background-image: url(../img/pizza.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -145,7 +145,7 @@ img{
     font-size: 20px;
 }
 .main3{
-    background-image: url(pizza2.jpg);
+    background-image: url(../img/pizza2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -166,4 +166,5 @@ img{
 .main3 .start{
     margin-top: 30px;
 }
+
 
